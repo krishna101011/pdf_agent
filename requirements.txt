@@ -1,0 +1,5 @@
+openai>=1.40
+streamlit>=1.50
+pymupdf>=1.24.3
+requests>=2.31
+python-dotenv>=1.0
